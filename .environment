@@ -114,7 +114,7 @@ export EXTENSIONS_PATH="./extensions"
 ####################################################################################################
 # Email
 
-export EMAIL_FROM=suppor@em7427.platformsh.site
+export EMAIL_FROM=no-reply@platformsh.site
 export EMAIL_TRANSPORT=smtp
 
 ## Email (SMTP Transport)
